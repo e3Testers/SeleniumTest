@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e3Test2UsingSeleniumIDE", "e3Test2UsingSeleniumIDE\e3Test2UsingSeleniumIDE.csproj", "{47E9A984-A72A-477B-9B74-7FBC45324A73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e3Test2UsingSeleniumIDE", "..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\Visual Studio 2017\Projects\e3Test2\e3Test2UsingSeleniumIDE\e3Test2UsingSeleniumIDE.csproj", "{47E9A984-A72A-477B-9B74-7FBC45324A73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
